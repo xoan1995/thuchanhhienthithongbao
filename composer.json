@@ -1,0 +1,7 @@
+{
+    "require": {
+        "yajra/laravel-datatables-oracle": "^9.7",
+        "laravel/passport": "^8.0",
+        "willvincent/laravel-rateable": "^2.0"
+    }
+}

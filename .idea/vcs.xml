@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/WFD_Demo-jQuery" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/angular-overview" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/basic-layout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bootstrap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo-angular/demo-angular" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo/angular-overview" vcs="Git" />
+  </component>
+</project>
